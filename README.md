@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **I have been always a underthinker(Kind of my word)**
 
+- ![gojo-satoru](https://github.com/user-attachments/assets/910bd0ec-d14f-4eeb-a57a-1721a75d0df1)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
