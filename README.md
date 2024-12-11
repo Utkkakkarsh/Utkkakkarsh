@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkkakkarsh" alt="utkkakkarsh" /></a> </p>
 
-- 🔭 I'm a currently working on **Youtube Video downloader**
+- 🔭 I'm a currently working on **Youtube Video downloader App using python**
 
 - 🌱 I’m currently learning **DSA with C++ and Webdevelopment**
 
